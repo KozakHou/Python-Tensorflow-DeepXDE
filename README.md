@@ -11,6 +11,7 @@ Click inside the file to acquire more detail !
 ### Deepxde is the file contained the examples of PDE equation
 
 ### DIY_XDE is the file contained what I did in Summer Intern 
+The most intriguing .ipynb file is Driving Shue et al. model , don't miss it !
 
 ```
 @Citation{
