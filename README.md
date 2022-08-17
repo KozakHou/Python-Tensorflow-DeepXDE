@@ -8,7 +8,7 @@ Inside the whole program, we can choose Tensorflow, Pytorch, Or the recently fam
 
 Click inside the file to acquire more detail !
 
-### DeepXDE is the file contained the examples of PDE equation
+### Deepxde is the file contained the examples of PDE equation
 
 ### DIY_XDE is the file contained what I did in Summer Intern 
 
